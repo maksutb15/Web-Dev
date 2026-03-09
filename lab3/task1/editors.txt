@@ -1,0 +1,10 @@
+A code editor is a program used to write code.
+
+There are two types of editors:
+1. IDE – powerful development environments for large projects.
+Examples: Visual Studio Code, WebStorm, Visual Studio.
+
+2. Lightweight editors – simple and fast editors.
+Examples: Sublime Text, Notepad++, Vim.
+
+Developers choose editors depending on their preferences and projects.
