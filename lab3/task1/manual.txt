@@ -1,0 +1,8 @@
+JavaScript specification is called ECMA-262.
+It defines how the JavaScript language works.
+
+MDN is the main documentation website for JavaScript.
+Developers use it to learn about functions and methods.
+
+Compatibility tables show which browsers support certain features.
+Examples: caniuse.com and kangax.github.io.
