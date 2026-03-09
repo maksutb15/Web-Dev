@@ -1,0 +1,8 @@
+Developer console is a tool in the browser that helps developers debug JavaScript.
+
+It allows us to:
+- see errors
+- run JavaScript commands
+- test code
+
+In most browsers developer tools can be opened by pressing F12.
