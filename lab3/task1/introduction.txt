@@ -1,0 +1,9 @@
+JavaScript is a programming language used to make web pages interactive.
+It works together with HTML and CSS.
+
+Examples of engines:
+V8 – Chrome
+SpiderMonkey – Firefox
+
+JavaScript can modify HTML, react to user actions and send requests.
+But it cannot access user files because of security restrictions.
